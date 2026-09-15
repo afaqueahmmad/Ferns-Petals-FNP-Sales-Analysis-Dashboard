@@ -74,8 +74,3 @@ Used Excel's **Get Data → From Folder** to pull in all source files as a singl
 ##  Skills Demonstrated
 
 `Excel (Advanced)` `Power Query (Get & Transform)` `XLOOKUP` `Data Modeling` `Pivot Tables & Pivot Charts` `Interactive Slicers` `KPI Design` `Data Cleaning & Consolidation` `Business Insight Generation`
-
-
-
-**Ahmad Afaque**
-📧 afaqueahmad967@gmail.com | [LinkedIn](#) | [GitHub](#)
