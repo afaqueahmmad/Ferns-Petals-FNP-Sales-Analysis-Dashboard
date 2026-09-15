@@ -1,0 +1,2 @@
+# Ferns-Petals-FNP-Sales-Analysis-Dashboard
+This project simulates a real-world analyst workflow: raw, fragmented data was ingested, consolidated into a single master table, modeled, and visualized into an interactive one-page dashboard to answer key business questions around revenue, customer behavior, and delivery performance.
